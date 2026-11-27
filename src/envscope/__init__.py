@@ -1,0 +1,1 @@
+"""Environment variable documentation checker."""
